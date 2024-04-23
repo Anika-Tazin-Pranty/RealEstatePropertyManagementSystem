@@ -11,22 +11,22 @@
     </tr>
     <tr>
         <td>20101090</td>
-        <td>Rupanti Alam</td>
+        <td><a href="https://github.com/rupantiraisa327/">Rupanti Alam</a></td>
         <td>Buy/Sell Properties</td>
     </tr>
     <tr>
         <td>21101248</td>
-        <td>ASM Najmus Sakib Khan</td>
+        <td><a href="https://github.com/asmnajmussakibkhan/">ASM Najmus Sakib Khan</a></td>
         <td>Home Page, Wishlist, Database Connection</td>
     </tr>
     <tr>
         <td>22101886</td>
-        <td>Anika Tazin Pranty</td>
+        <td><a href="https://github.com/Anika-Tazin-Pranty/">Anika Tazin Pranty</a></td>
         <td>Admin Panel, Admin Login</td>
     </tr>
     <tr>
         <td>23241140</td>
-        <td>MD. Labibul Ahsan Alif</td>
+        <td><a href="https://github.com/Alif416/">MD. Labibul Ahsan Alif</a></td>
         <td>Login Page, Registration Page, Login/Logout Configuration</td>
     </tr>
 </table>
