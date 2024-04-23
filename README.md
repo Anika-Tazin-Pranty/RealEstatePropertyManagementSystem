@@ -1,6 +1,7 @@
-# Real Estate Property Management System
-
 <table>
+    <tr>
+        <td colspan="3"><center>CSE370 - Group No: 2, Lab Section: 4, Spring 2024</td>
+    </tr>
     <tr>
         <th>ID</th>
         <th>Name</th>
@@ -8,7 +9,7 @@
     </tr>
     <tr>
         <td>20101090</td>
-        <td>Rupanti Alam</td>
+        <td>RUPANTI ALAM</td>
         <td>Buy/Sell Properties</td>
     </tr>
     <tr>
@@ -18,12 +19,12 @@
     </tr>
     <tr>
         <td>22101886</td>
-        <td>Anika Tazin Pranty</td>
+        <td>ANIKA TAZIN PRANTY</td>
         <td>Admin Panel, Admin Login</td>
     </tr>
     <tr>
         <td>23241140</td>
-        <td>MD. Labibul Ahsan Alif</td>
+        <td>MD. LABIBUL AHSAN ALIF</td>
         <td>Login Page, Registration Page, Login/Logout Configuration</td>
     </tr>
 </table>
