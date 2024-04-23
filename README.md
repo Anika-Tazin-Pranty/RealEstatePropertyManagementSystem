@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td colspan="3"><center>CSE370 - Group No: 2, Lab Section: 4, Spring 2024</td>
+        <td colspan="3"><center>CSE370 - Group No: 2, Lab Section: 4, Spring 2024</center></td>
     </tr>
     <tr>
         <th>ID</th>
