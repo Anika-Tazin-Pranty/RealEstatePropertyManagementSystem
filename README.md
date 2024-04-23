@@ -1,6 +1,6 @@
 # Real Estate Property Management System
 
-<table border=1>
+<table>
     <tr>
         <th>ID</th>
         <th>Name</th>
