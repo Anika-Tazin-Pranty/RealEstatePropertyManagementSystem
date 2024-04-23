@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>20101090</td>
-        <td>RUPANTI ALAM</td>
+        <td>Rupanti Alam</td>
         <td>Buy/Sell Properties</td>
     </tr>
     <tr>
@@ -19,12 +19,12 @@
     </tr>
     <tr>
         <td>22101886</td>
-        <td>ANIKA TAZIN PRANTY</td>
+        <td>Anika Tazin Pranty</td>
         <td>Admin Panel, Admin Login</td>
     </tr>
     <tr>
         <td>23241140</td>
-        <td>MD. LABIBUL AHSAN ALIF</td>
+        <td>MD. Labibul Ahsan Alif</td>
         <td>Login Page, Registration Page, Login/Logout Configuration</td>
     </tr>
 </table>
