@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td colspan="3" align="center">CSE370 - Group No: 2, Lab Section: 4, Spring 2024</td>
+        <td colspan="3" align="center"><b>CSE370 - Group No: 2, Lab Section: 4, Spring 2024</b>b></td>
     </tr>
     <tr>
         <th>ID</th>
